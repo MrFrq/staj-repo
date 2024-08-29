@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|c:\\users\\faruk\\source\\repos\\mvconlineticariotomasyon\\models\\siniflar\\satishareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:models\\siniflar\\satishareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|c:\\users\\faruk\\source\\repos\\mvconlineticariotomasyon\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\models\\siniflar\\cariler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:models\\siniflar\\cariler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|c:\\users\\faruk\\source\\repos\\mvconlineticariotomasyon\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\models\\siniflar\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:models\\siniflar\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|c:\\users\\faruk\\source\\repos\\mvconlineticariotomasyon\\views\\urun\\yeniurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:views\\urun\\yeniurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\models\\siniflar\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|c:\\users\\faruk\\source\\repos\\mvconlineticariotomasyon\\models\\siniflar\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:models\\siniflar\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|c:\\users\\faruk\\source\\repos\\mvconlineticariotomasyon\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B3539-6081-4194-9AA9-07D0B4A30AFB}|MvcOnlineTicariOtomasyon.csproj|solutionrelative:controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,32 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cariler.cs",
-              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Cariler.cs",
-              "RelativeDocumentMoniker": "Models\\Siniflar\\Cariler.cs",
-              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Cariler.cs",
-              "RelativeToolTip": "Models\\Siniflar\\Cariler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T08:58:23.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Personel.cs",
-              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Personel.cs",
-              "RelativeDocumentMoniker": "Models\\Siniflar\\Personel.cs",
-              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Personel.cs",
-              "RelativeToolTip": "Models\\Siniflar\\Personel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T08:58:01.409Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -68,46 +40,61 @@
               "RelativeDocumentMoniker": "Models\\Siniflar\\Urun.cs",
               "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Urun.cs",
               "RelativeToolTip": "Models\\Siniflar\\Urun.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T08:56:52.114Z"
+              "WhenOpened": "2024-08-29T20:57:31.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YeniUrun.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Views\\Urun\\YeniUrun.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\YeniUrun.cshtml",
+              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Views\\Urun\\YeniUrun.cshtml",
+              "RelativeToolTip": "Views\\Urun\\YeniUrun.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T19:51:07.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SatisHareket.cs",
-              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\SatisHareket.cs",
-              "RelativeDocumentMoniker": "Models\\Siniflar\\SatisHareket.cs",
-              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\SatisHareket.cs",
-              "RelativeToolTip": "Models\\Siniflar\\SatisHareket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T08:55:55.847Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "Views\\Urun\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:59:44.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "Controllers\\UrunController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T08:39:59.782Z"
+              "WhenOpened": "2024-08-29T09:59:25.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAEYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-26T07:29:29.55Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Faruk\\source\\repos\\MvcOnlineTicariOtomasyon\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "Views\\Kategori\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:06:39.804Z",
               "EditorCaption": ""
             }
           ]

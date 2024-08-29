@@ -29,8 +29,9 @@ namespace MvcOnlineTicariOtomasyon.Models.Siniflar
         [StringLength(250)]
         public string UrunGorsel { get; set; }
 
-        // bu şekilde DB' ye atılırsa string değişlenler NVCHAR(MAX)  
-        public Kategori Kategori { get; set; }
+        // bu şekilde DB' ye atılırsa string değişlenler NVCHAR(MAX) 
+        public int Kategoriid { get; set; }
+        public virtual Kategori Kategori { get; set; }                  // KATEGORİ SINIFINDAKİ DEĞERLERE ULAŞABİLECEĞİZ
 
         // Satış ilişkileri : 
         public ICollection<SatisHareket> SatisHarekets { get; set; }
