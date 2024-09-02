@@ -11,6 +11,7 @@
         {
             AutomaticMigrationsEnabled = true;  // enable-migrations yaptıktan sonra true yapıyoruz
                                                 // veritabanındaki değişiklikleri yansıtacak
+                                                // büyük projelerde FALSE olarak tutulur
         }
 
         protected override void Seed(MvcOnlineTicariOtomasyon.Models.Siniflar.Context context)

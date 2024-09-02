@@ -15,7 +15,7 @@ namespace MvcOnlineTicariOtomasyon.Models.Siniflar
         [Column(TypeName = "VARCHAR")]
         [StringLength(30)]
         public string DepartmanAd { get; set; }
-
+        public bool Durum {  get; set; }
         // bir depertman birden fazla personelde bulunabilir 
         public ICollection<Personel> Personels{ get; set; }
 
