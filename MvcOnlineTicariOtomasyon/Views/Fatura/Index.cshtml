@@ -13,9 +13,9 @@
         <th>Vergi Dairesi</th>
         <th>Tarih</th>
         <th>Saat</th>
-        <th>Toplam</th>
         <th>Teslim Eden</th>
         <th>Teslim Alan</th>
+        <th>Toplam</th>
         <th>Güncelle</th>
         <th>Detaylar</th>        
     </tr>
@@ -23,21 +23,21 @@
     {
         <tr>
             <td>@k.FaturaID</td>
-            <td>@k.FaturaSeriNoo</td>
+            <td>@k.FaturaSeriNo</td>
             <td>@k.FaturaSıraNo</td>
             <td>@k.VergiDairesi</td>
             <td>@k.FaturaTarih</td>
             <td>@k.FaturaSaat</td>
-            <td>@k.Toplam</td>
             <td>@k.TeslimEden</td>
             <td>@k.TeslimAlan</td>            
+            <td>@k.Toplam</td>
             <td><a href="/Fatura/FaturaGetir/@k.FaturaID/" class="btn btn-warning">Güncelle</a></td>
-            <td> <a href="/Fatura/FaturaDetay/@k.FaturaID" class="btn btn-default" style="color:white ;background-color:lightcoral">Detay</a></td>
+            <td> <a href="/Fatura/FaturaDetay/@k.FaturaID" class="btn btn-default" style="color:white ;background-color:lightcoral">Fatura Kalemleri <i class="fa-solid fa-file-pen"></i></a></td>
         </tr>
     }
 
 </table>
-<a href="/Fatura/FaturaEkle/" class="btn btn-info">Fatura Ekle</a>
+<a href="/Fatura/FaturaEkle/" class="btn btn-info">Yeni Fatura Girişi</a>
 
 
 

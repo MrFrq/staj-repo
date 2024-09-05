@@ -70,3 +70,7 @@ C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\roslyn\System.Buffers.d
 C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\roslyn\System.Memory.dll
 C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Faruk\source\repos\MvcOnlineTicariOtomasyon\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml

@@ -13,10 +13,15 @@ namespace MvcOnlineTicariOtomasyon.Controllers
     {
         // GET: Urun
         Context c = new Context();
-        public ActionResult Index()
+        public ActionResult Index(string araP)
         {
-            var urunler = c.Uruns.Where(x=>x.Durum==true).ToList();
-            return View(urunler);
+            //var urunler = c.Uruns.Where(x=>x.Durum==true).ToList();
+            var urunler = from x in c.Uruns select x;
+            if (!string.IsNullOrEmpty(araP))
+            {
+                urunler = urunler.Where(y => y.UrunAd.Contains(araP));
+            }
+            return View(urunler.ToList());
         }
 
         [HttpGet]

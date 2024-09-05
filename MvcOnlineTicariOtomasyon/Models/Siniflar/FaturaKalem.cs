@@ -18,11 +18,11 @@ namespace MvcOnlineTicariOtomasyon.Models.Siniflar
         public   string Aciklama { get; set; }
         public    int  Miktar { get; set; }
         public    decimal BirimFiyat{ get; set; }
-        public    decimal Tutar { get; set; }
+        public    decimal Tutar { get; set; }          
 
-
+        public int Faturaid { get; set; }
         // Bir Fatura kaleminin sadece bir faturası olabilir 
-        public  Faturalar  Faturalar { get; set; }
+        public virtual Faturalar Faturalar { get; set; }
 
     }
 }

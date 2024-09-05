@@ -5,8 +5,10 @@ using System.Web;
 using System.Web.Mvc;
 using MvcOnlineTicariOtomasyon.Models.Siniflar;
 
+
 namespace MvcOnlineTicariOtomasyon.Controllers
 {
+    [Authorize(Roles = "C")]
     public class CariController : Controller
     {
         // GET: Cari

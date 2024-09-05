@@ -7,6 +7,7 @@ using MvcOnlineTicariOtomasyon.Models.Siniflar;
 
 namespace MvcOnlineTicariOtomasyon.Controllers
 {
+    [Authorize(Roles = "D")]
     public class DepartmanController : Controller
     {
         // GET: Departman
@@ -17,12 +18,14 @@ namespace MvcOnlineTicariOtomasyon.Controllers
             return View(degerler);
         }
 
+
+        [Authorize(Roles ="D")]
         [HttpGet]
         public ActionResult DepartmanEkle()
         {
             return View();
         }
-
+        [Authorize(Roles ="D")]
         [HttpPost]  // butona tıklandığında çalışacak 
         public ActionResult DepartmanEkle(Departman d)
         {

@@ -13,14 +13,11 @@ namespace MvcOnlineTicariOtomasyon.Models.Siniflar
         [Key]
         public int FaturaID { get; set; }
 
-        [Column(TypeName = "VARCHAR")]
-        [StringLength(1)]
-        public char FaturaSeriNo { get; set; }
-
         [Column(TypeName = "Char")]
         [StringLength(1)]
-        public string FaturaSeriNoo { get; set; }
+        public string FaturaSeriNo { get; set; }
 
+      
         [Column(TypeName = "VARCHAR")]
         [StringLength(6)]
         public string FaturaSıraNo { get; set; }
@@ -33,7 +30,7 @@ namespace MvcOnlineTicariOtomasyon.Models.Siniflar
 
         [Column(TypeName = "char")]
         [StringLength(5)]
-        public String FaturaSaat { get; set; }
+        public string FaturaSaat { get; set; }
 
         [Column(TypeName = "VARCHAR")]
         [StringLength(30)]
@@ -44,8 +41,12 @@ namespace MvcOnlineTicariOtomasyon.Models.Siniflar
         public string TeslimAlan {  get; set; }       
 
         public decimal Toplam { get; set; }
+
+        
+
         // Bir Faturanın birden fazla Kalemi olabilir 
         // Fatura Kalemden üretilecek nesne DB'de FaturaKalems olarak geçecek 
+
         public ICollection<FaturaKalem> FaturaKalems { get; set; }
     }
 }

@@ -7,6 +7,7 @@ using System.Web;
 
 namespace MvcOnlineTicariOtomasyon.Models.Siniflar
 {
+
     public class Cariler
     {
         [Key]
@@ -34,10 +35,17 @@ namespace MvcOnlineTicariOtomasyon.Models.Siniflar
         [Required(ErrorMessage = "Bu alan boş geçilemez!!")]        
         public  string CariMail  { get; set; }
 
+        [Column(TypeName = "VARCHAR")]
+        [StringLength(20, ErrorMessage = "En fazla 20 karakter girebilirsiniz...")]
+        [Required(ErrorMessage = "Bu alan boş geçilemez!!")]
+        public string CariSifre { get; set; }
+
         public bool Durum { get; set; }
 
+        [Column(TypeName = "Char")]
+        [StringLength(1)]
+        public string Yetki { get; set; }
         // Satış ilişkileri : 
         public ICollection<SatisHareket> SatisHarekets { get; set; }
-
     }
 }
